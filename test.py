@@ -1,4 +1,5 @@
 import cv2
+import torch
 
 if __name__ == '__main__':
     # Read the input image
